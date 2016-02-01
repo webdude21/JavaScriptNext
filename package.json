@@ -1,0 +1,26 @@
+{
+  "name": "javascriptnext",
+  "version": "1.0.0",
+  "description": "Some of the coolest things in JavaScript to come",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdude21/JavaScriptNext.git"
+  },
+  "author": "webdude",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webdude21/JavaScriptNext/issues"
+  },
+  "homepage": "https://github.com/webdude21/JavaScriptNext#readme",
+  "devDependencies": {
+    "babel-plugin-syntax-async-functions": "^6.1.4",
+    "babel-plugin-transform-regenerator": "^6.1.4",
+    "babel-polyfill": "^6.1.4",
+    "request": "^2.65.0",
+    "babel-preset-es2015": "^6.3.13",
+  }
+}
